@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C00F010A-E156-43BA-8BDF-566B0AE334B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Number_220Analyzer_220-_220Lab_220-_220Day_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Number Analyzer - Lab - Day 2/Program.cs">
+    <Files>
+      <File FileName="Number Analyzer - Lab - Day 2/Program.cs" Line="34" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Number Analyzer - Lab - Day 2" expanded="True">
+            <Node name="Number Analyzer - Lab - Day 2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

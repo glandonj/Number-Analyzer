@@ -1,0 +1,15 @@
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/bin/Debug/net7.0/Number Analyzer - Lab - Day 2
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/bin/Debug/net7.0/Number Analyzer - Lab - Day 2.deps.json
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/bin/Debug/net7.0/Number Analyzer - Lab - Day 2.runtimeconfig.json
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/bin/Debug/net7.0/Number Analyzer - Lab - Day 2.dll
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/bin/Debug/net7.0/Number Analyzer - Lab - Day 2.pdb
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.csproj.AssemblyReference.cache
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.AssemblyInfoInputs.cache
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.AssemblyInfo.cs
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.csproj.CoreCompileInputs.cache
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.dll
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/refint/Number Analyzer - Lab - Day 2.dll
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.pdb
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/Number Analyzer - Lab - Day 2.genruntimeconfig.cache
+/Users/glandoncomputer/Projects/Number Analyzer - Lab - Day 2/Number Analyzer - Lab - Day 2/obj/Debug/net7.0/ref/Number Analyzer - Lab - Day 2.dll
